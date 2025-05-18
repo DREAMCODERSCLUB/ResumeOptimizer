@@ -35,4 +35,4 @@ Whether you're a student, mid-career professional, or freelancer — this tool h
 ## 📬 Contact
 
 Built with 💡 by Chirag Sharma 
-📧 [YourEmail@example.com] | 🌐 [LinkedIn URL]  
+📧 [brandcrs04@gmail.com] | 🌐 [[LinkedIn URL](https://www.linkedin.com/in/chiragsharma04/)]  
