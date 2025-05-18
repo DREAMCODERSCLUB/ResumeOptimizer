@@ -1,8 +1,9 @@
 import google.generativeai as genai
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
-
 import streamlit as st
 import pdfplumber
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+
+
 
 # ---- PAGE SETUP ----
 st.set_page_config(page_title="GenAI Resume Optimizer", layout="centered")
