@@ -1,5 +1,4 @@
 import os
-from dotenv import load_dotenv
 
 import google.generativeai as genai
 genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
